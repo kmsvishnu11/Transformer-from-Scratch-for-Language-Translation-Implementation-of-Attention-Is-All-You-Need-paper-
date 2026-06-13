@@ -1,0 +1,7 @@
+torch>=2.2.0
+numpy>=1.26.0
+datasets>=2.19.0
+spacy>=3.7.0
+sacrebleu>=2.4.0
+matplotlib>=3.8.0
+tqdm>=4.66.0
